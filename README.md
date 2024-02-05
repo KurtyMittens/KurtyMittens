@@ -1,4 +1,3 @@
-# <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250" height="250" />
 # I'm KurtyMittens 🐱‍💻:
 🔭 I’m currently working on My Bachelors Degree in Computer Engineering<br>🌱 I’m currently learning Data Science!<br>🧑🏼‍🔬 I'm Studying in Technological Institute of the Philippines!🇵🇭<br>⚡ Fun fact I'm known for my weirdness and dark humor but i don't bite.
 
