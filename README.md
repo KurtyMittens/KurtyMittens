@@ -1,5 +1,5 @@
 # I'm KurtyMittens 🐱‍💻:
-🔭 I’m currently working on My Bachelors Degree in Computer Engineering<br>🌱 I’m currently learning Data Science!<br>🧑🏼‍🔬 I'm Studying in Technological Institute of the Philippines!🇵🇭<br>⚡ Fun fact I'm known for my weirdness and dark humor but i don't bite.
+🔭 I’m currently working on My Bachelors Degree in Computer Engineering<br>🌱 I’m currently learning Data Science!<br>🧑🏼‍🔬 I'm Studying in Technological Institute of the Philippines!🇵🇭<br>⚡ Fun fact I'm known for my weirdness and dark humor but i don't bite. pops
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kurtrussel.villamor) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Kynamittens) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kynamittens17) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kynamittens) 
